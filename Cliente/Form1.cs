@@ -1,4 +1,18 @@
-﻿using System;
+﻿// ************************************************************************ 
+// Practica 06
+// Mathew Gutiérrez
+// Fecha de realización: 17/06/2025
+// Fecha de entrega: 18/06/2025 
+// Resultados: 
+// * Sistema cliente-servidor para validar acceso y consultar restricciones vehiculares usando sockets TCP.
+// Conclusiones: 
+// * 
+// * 
+// Recomendaciones: 
+// * 
+// *
+// ************************************************************************
+using System;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
